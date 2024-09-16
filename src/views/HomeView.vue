@@ -3,7 +3,7 @@ import Home from "../components/Home.vue";
 </script>
 
 <template>
-  <main>
+  <div class="mx-auto container">
     <Home />
-  </main>
+  </div>
 </template>
